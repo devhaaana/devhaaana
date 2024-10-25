@@ -1,5 +1,6 @@
 <div align="center">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=devhaaana" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✈️✈️✈️&fontAlign=70&fontAlignY=50&animation=twinkling">
 </div>
 
 <h3 align="center">Hi there 👋</h3>
@@ -28,6 +29,12 @@
 </div>
 
 <br />
+
+
+<div align="center">  
+<!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="SOKURI's github stats" /></a> -->
+<!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical&hide_border=true" /></a> -->
+</div>
 
 <div align="center">
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=one4435" /> -->
@@ -89,6 +96,12 @@
   <a href="https://hits.seeyoufarm.com" target="_blank">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevhaaana&count_bg=%23BCBCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlign=70&fontAlignY=50&section=footer">
 </div>
 
 <!--
