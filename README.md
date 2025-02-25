@@ -30,16 +30,17 @@
 
 <br />
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
-<div align="center">  
+<br />
+
 <!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="SOKURI's github stats" /></a> -->
 <!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical&hide_border=true" /></a> -->
-</div>
 
-<div align="center">
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=one4435" /> -->
 <!--   <img src="http://mazandi.herokuapp.com/api?handle={one4435}&theme=warm"/> -->
-</div>
 
 <br />
 
@@ -107,21 +108,8 @@
 
 <br />
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlign=70&fontAlignY=50&section=footer">
 </div>
 
-<!--
-**devhaaana/devhaaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
