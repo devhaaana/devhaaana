@@ -1,5 +1,4 @@
 <div align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=devhaaana" /> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✈️✈️✈️&fontAlign=70&fontAlignY=50&animation=twinkling">
 </div>
 
@@ -8,24 +7,17 @@
 <br />
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true" />
-  </picture>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=radical)
+
 </div>
 
 <br />
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=donut" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical" />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=radical)
+
 </div>
 
 <br />
@@ -35,9 +27,6 @@
 </div>
 
 <br />
-
-<!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="SOKURI's github stats" /></a> -->
-<!--   <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical&hide_border=true" /></a> -->
 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=one4435" /> -->
 <!--   <img src="http://mazandi.herokuapp.com/api?handle={one4435}&theme=warm"/> -->
