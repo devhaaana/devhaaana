@@ -22,6 +22,8 @@
 
 <br />
 
+<div align="center">
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -62,6 +64,10 @@ No Activity Tracked This Week
 
  Last Updated on 10/03/2025 09:06:08 UTC
 <!--END_SECTION:waka-->
+
+</div>
+
+<br />
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
