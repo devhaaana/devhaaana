@@ -7,17 +7,28 @@
 <br />
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=radical)
-
-</div>
-
-<br />
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=radical)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=flag-india"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=flag-india"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact" />
+</picture>
 </div>
 
 <br />
@@ -59,10 +70,18 @@ No Activity Tracked This Week
 <br />
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+<picture>
+  <source
+    srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./profile-3d-contrib/profile-gitblock.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" />
+</picture>
 </div>
-
-<br />
 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=one4435" /> -->
 <!--   <img src="http://mazandi.herokuapp.com/api?handle={one4435}&theme=warm"/> -->
