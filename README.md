@@ -22,6 +22,9 @@
 
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
