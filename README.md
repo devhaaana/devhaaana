@@ -23,6 +23,79 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 593.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 83 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 32 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+🌆 Daytime                121 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+🌃 Evening                149 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌙 Night                  95 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  73 commits          █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   113 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Sunday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   21 repos            ███████████████████░░░░░░   77.78 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/devhaaana/devhaaana/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/03/2025 08:44:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
