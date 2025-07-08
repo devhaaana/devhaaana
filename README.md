@@ -125,7 +125,7 @@ Mac                      7 hrs 57 mins       ███████████�
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"> -->
 </div>
 
 <div align="center">
@@ -147,15 +147,6 @@ Mac                      7 hrs 57 mins       ███████████�
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevhaaana&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-  </a>
-</div>
-
-<br />
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlign=70&fontAlignY=50&section=footer">
