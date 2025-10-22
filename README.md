@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=✈️✈️✈️&fontAlign=70&fontAlignY=50&animation=twinkling">
-</div>
+</div> -->
 
 <h3 align="center">Hi there 👋</h3>
 
@@ -71,9 +71,9 @@ Mac                      4 hrs 39 mins       ███████████�
 
 </div>
 
-<br />
+<!-- <br /> -->
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source
     srcset="./profile-3d-contrib/profile-night-rainbow.svg"
@@ -85,14 +85,14 @@ Mac                      4 hrs 39 mins       ███████████�
   />
   <img src="./profile-3d-contrib/profile-gitblock.svg" />
 </picture>
-</div>
+</div> -->
 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=one4435" /> -->
 <!--   <img src="http://mazandi.herokuapp.com/api?handle={one4435}&theme=warm"/> -->
 
-<br />
+<!-- <br /> -->
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<!-- <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -125,7 +125,6 @@ Mac                      4 hrs 39 mins       ███████████�
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"> -->
 </div>
 
 <div align="center">
@@ -144,11 +143,11 @@ Mac                      4 hrs 39 mins       ███████████�
   <a href="mailto:one4435go@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</div> -->
 
-<br />
+<!-- <br /> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlign=70&fontAlignY=50&section=footer">
-</div>
+</div> -->
 
