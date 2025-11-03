@@ -7,6 +7,16 @@
 <br />
 
 <div align="center">
+
+  ![Stats](https://github-readme-stats.vercel.app/api?username=devhaaana&hide=issues,contribs&theme=radical#gh-dark-mode-only)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=devhaaana&hide=issues,contribs&theme=flag-india#gh-light-mode-only)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical#gh-dark-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=flag-india#gh-light-mode-only)
+
+</div>
+
+<!-- <div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=radical"
@@ -18,6 +28,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true" />
 </picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=radical"
@@ -29,7 +40,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact" />
 </picture>
-</div>
+</div> -->
 
 <br />
 
@@ -105,16 +116,6 @@
 </div>
 
 <br />
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@one4435" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-  <a href="mailto:one4435go@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div> -->
 
 <!-- <br /> -->
 
