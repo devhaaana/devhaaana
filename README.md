@@ -8,39 +8,12 @@
 
 <div align="center">
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=devhaaana&hide=issues,contribs&theme=radical#gh-dark-mode-only)
-  ![Stats](https://github-readme-stats.vercel.app/api?username=devhaaana&hide=issues,contribs&theme=flag-india#gh-light-mode-only)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=radical#gh-dark-mode-only)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&layout=compact&theme=flag-india#gh-light-mode-only)
+  [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=radical#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=flag-india#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=flag-india#gh-light-mode-only)
+  [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&layout=compact\&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&count_private=true\&layout=compact\&theme=radical#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&layout=compact\&theme=flag-india#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&count_private=true\&layout=compact\&theme=flag-india#gh-light-mode-only)
 
 </div>
-
-<!-- <div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true&theme=flag-india"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=devhaaana&show_icons=true&count_private=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact&theme=flag-india"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana&langs_count=8&count_private=true&layout=compact" />
-</picture>
-</div> -->
 
 <br />
 
