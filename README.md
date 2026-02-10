@@ -4,16 +4,16 @@
 
 <h3 align="center">Hi there 👋</h3>
 
-<br />
+<!-- <br /> -->
 
-<div align="center">
+<!-- <div align="center">
 
   [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=radical#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=flag-india#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=devhaaana\&count_private=true\&hide=issues,contribs\&show_icons=true\&theme=flag-india#gh-light-mode-only)
   [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&layout=compact\&theme=radical#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&count_private=true\&layout=compact\&theme=radical#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&layout=compact\&theme=flag-india#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=devhaaana\&count_private=true\&layout=compact\&theme=flag-india#gh-light-mode-only)
 
-</div>
+</div> -->
 
 <br />
 
