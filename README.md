@@ -23,10 +23,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌙 Night                  613 commits         ███████████████░░░░░░░░░░   61.92 % 
+🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+🌆 Daytime                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌙 Night                  614 commits         ███████████████░░░░░░░░░░   61.96 % 
 ```
 
 
@@ -36,16 +36,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CSS                      54 mins             ██████████░░░░░░░░░░░░░░░   41.63 % 
-HTML                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
