@@ -20,15 +20,13 @@
 <div align="center">
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-🌆 Daytime                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-🌙 Night                  640 commits         ████████████████░░░░░░░░░   62.87 % 
+🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌆 Daytime                148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌙 Night                  640 commits         ████████████████░░░░░░░░░   62.81 % 
 ```
 
 
